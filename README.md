@@ -7,3 +7,7 @@ To me was too plain
 Added some animations to it and adjusted some ui features
 3) Given more time what would you further improve?
 Could be more interactions or better design throughout
+
+
+(I had issues with my VSCode connecting to Github, so I had to upload from PC- also could not commit because of this reason.
+Hope it will not be a big issue in the task review. Thank you!)
